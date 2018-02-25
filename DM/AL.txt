@@ -1,0 +1,35 @@
+The Arcane Living (AL)
+The Al race showed up around 50 years ago. They wer originally thought to be malfuntioning AI, but were able to cast magic.
+There is great dislike of the AL and the are the most hated race in the system. the orgin of AL is comletely sponatanous.
+The large piles of electronic junk taht has been piling up for thousands of years have been seen being enfused with mana.
+After the mana explosion, an AL is left. So far there is no know max age limit to the AL as they have only been observed 
+for the last 40 years. They have been forming groups to fight for their rights as AL have the full range of emotions as
+most other races. They dont tend toward any emotion, belief or personility type. The ALs are usually around 6' - 6'10".
+Their body type, color, voice and general appearance vary for each AL.
+
+AL is the only race taht doesn't camp in isolated camps of just ALs. they have been the most assimilated race ever and
+an AL can been found if almost any world and status. 
+
+
+Size		Bonus Hp
+Tiny		—
+Small		10
+Medium		20
+Large		30
+
+AL's do not breathe, eat, or sleep.
+Low-light vision.
+Darkvision 60 feet.
+Immunity to disease, death effects, necromancy effects, paralysis, poison, sleep effects, and stunning.
+No Constitution score. Any DCs or other statistics that rely on a Constitution score treat a construct as 
+	having a score of 10.
+Cannot heal damage on its own, but often can be repaired via exposure to a certain kind of effect 
+	(see the creature's description for details) or through the use of the Craft Construct feat. 
+	Constructs can also be healed through spells such as make whole. A construct with the fast healing 
+	special quality still benefits from that quality.
+Not subject to ability damage, ability drain, fatigue, exhaustion, or nonlethal damage.
+Immunity to any effect that requires a Fortitude save (unless the effect also works on objects, or is harmless).
+AL's are not limited by their CON score for cypernectic implants, but is still limited by thier INT.
+
++2 str +2 dex +4 int -2 cha
+lingusist

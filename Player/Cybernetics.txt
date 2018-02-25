@@ -1,0 +1,90 @@
+Cybernetics
+
+For all implants, there is the base model that is needed for the implant. This is the base model or Mark X. 
+The Mark X level allows that many additonal implants to be made. These are the formula implants. The Mark are limited
+by the characters CON score. Each Mark cost its Mark level in CON score, i.e. a character with CON 12 is limited 
+at 2 Mark V and a Mark II total implants. This does not lower the characters mana pool. After the implantaion of
+the Mark X base implant, the can imlant as many Formula Y implants as the Mark X can handle and if the character's
+mana pool in non-negative. The Formula Y implant lower the mana pool by {R | R = (Y + Y-1 + Y-2 +...+ 1 + 0)} for each
+Mark X that is implanted.
+
+Mark 0:   9k
+Mark I:   27K
+Mark II:  55k
+Mark III: 82k
+Mark IV:  110k
+Mark V:   137k
+Mark VI:  196k
+
+Formula 1: 2k
+Formula 2: 8k
+Formula 3: 18k
+Formula 4: 32k
+Formula 5: 50k
+Formula 6: 72k
+
+Arms Mark 0: as robotic arms.
+Arms Mark I - V
+Implanted Weapon (as in book)
+Haste: give the character haste with melee weapons
+Larger Fist: treat fist as if they were a size larger
+Flying Fist: at a -5 to attack, the character can make a ranged attack with thier fist, as a standard action,
+	once per hand.
+split-able arms: as a full round action, the player can split his arms into two arms giving him 4 arms. This is
+	treated as other creatures with 4 arms as there is only one main hand and threed off hands
+Hard light shield: gives +2 dodge bonus to AC.
+adamantine reinforcement: +1/DR adaminatine
+improved arms: +2 ref
+
+Legs Mark 0: as Robotic feet
+Legs Mark I - V
+Speed Booast: +10 land movement speed
+Acrobatic package: +5 to acrobatics
+Carry capacity: +50 carrying capaticty
+Magnetic feet: as a immeadiate your shoes become magnetic and you do not move unless you will it. the character can
+	walk up metal surfaces at half speed
+jet boots: +10 flight speed and step up increase in menuverability. they start at poor.
+adamantine reinforcement: +2/DR adaminatine
+
+Body Mark 0: +1 CON
+Body Mark I - VI
+Dodge Boost: gives +1 dodge
+Durmel Plating: +2 natural Armor
+Mana Plate: give +15 mana
+Health Plate: give +15 health
+Energy shield: give a shield with +10 hitpoint, they recharge at 1 hitpoint an hour or a mana charge.
+Body enhancement: give a +2 to a pyshical attribute
+Shadow: the character can go into stealth in plain sight
+adamantine reinforcement: +3/DR adaminatine
+improved body: +2 fort
+
+
+
+Brain Mark 0: +1 INT
+Brain Mark I - V
+Skill Chips: choose a skill that skill is now a class skill and get a +5 circumstancial bonus
+Mental enhancement: +2 to mental attribute
+languist chip: know and speak all know languages and the ability to add secret languages
+spell chip: the spell chip allows you to add a spell of the amounts of chips you have. 
+	i.e. 1 chip: 1 lvl 1 spell. 
+	2 chips: 1 lvl 1, 1 lvl 2 spell
+	3 chips: 1 lvl 1, 1 lvl 2, 1 lvl 3 spell
+spell resistance: first chip is +level. every chip after is +5 (does not stack with other forms of spell resistence
+improved mind: +2 will
+
+Senses Mark 0: as robotic eyes and ears
+Sense Mark I - V
+Dark vision: givees dark vision
+X-ray: can see through +5 feet of metal
+1-Radar: tremersense
+2-improved vision: blind sense
+3-greater vision: blight sight
+4-perfect vision: true sight
+
+(the number next to them indicate that they must be implanted in that order)
+
+
+Lost tech:
+charge own mana with batteries
+halo shields
+Charger pack

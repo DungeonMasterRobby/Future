@@ -1,0 +1,148 @@
+THe disruption codes are the ZUL attempt at becoming biological. He was fighting for AL rights in society. these
+codes started turning AL organic but it also started turning organics into mechanics. ZUL started to connect
+these events to the events of god summoning. He bieleived that he could summon a new god, and as there arent any 
+gods left, he would be come the new god. The other leader of research team was names Dar. He took the most finished
+code and ran, not wanted to be part of ZUL's plan. ZUL hired Praimary Z to kill Dar and so the attack on the train
+took place. these werer tehn taken by Primary Z. they expanded theses codes and came close to completeing them.
+However, ZUL heard of this and attempted to steal them but was stopped by the party. ZUL right hand woman, Khaled
+was almost killed in the attack and so he retreated. He then made a deal with Primary Z to come take teh party and
+kill tehm. though he doesnt want to kill them, he wamnts to tke them, expose them to all the code, and take the
+power of a god. There are two differnet troops, teh regualr tropps and the heavey enchanced troops. This attack
+is lead by Priamary Z's Hildago, and ZUL's Rusty. they both took the handler captive and are searching for them.
+
+
+
+Brute from Primary Z
+Male human fighter 10
+LN Medium humanoid
+Init +4; Senses Perception +1
+DEFENSE
+AC 20, touch 20, flat-footed 20 (+10 touch armor)
+hp 94 (10d10+30) 6/DR
+Fort +9, Ref +7, Will +4; +3 vs. fear
+Defensive Abilities bravery +3
+OFFENSE
+Speed 30 ft.
+Ranged Arc Rifle (20 charges) +18/+13 (2d6+4/×3)
+STATISTICS
+Str 12, Dex 19, Con 14, Int 8, Wis 13, Cha 12
+Base Atk +10; CMB +14; CMD 24
+Feats Cleave, Critical Focus, Dazzling Display, Furious Focus, Great Cleave, Greater Weapon Focus (arc rifle),
+Improved Initiative, Lunge, Power Attack, Vital Strike, Weapon Focus (arc rifle), 
+Weapon Specialization (arc rifle)
+Skills Bluff +7, Intimidate +10, Ride +5, Survival +6
+Languages Common
+SQ armor training 2
+Combat Gear elixir of hiding; Other Gear +9 scatterlight armor, arc rifle, 5 batteries, 
+body Mark II (6/DR adamintine), 10% chance of there vbeing a note.
+gear cost: 99,000 + 20k gold
+
+
+
+Grunt form ZUL's hoard
+AL Rogue 9
+CN Medium humanoid (elf)
+Init +4; Senses low-light vision; Perception +16
+DEFENSE
+AC 15, touch 20, flat-footed 15 (+5 touch armor, +4 Dex)
+hp 53 (9d8+9)
+Fort +4, Ref +14, Will +2; +2 vs. enchantments
+Defensive Abilities evasion, improved uncanny dodge, trap sense +3; Immune sleep
+OFFENSE
+Speed 40 ft.
+Ranged dagger +10/+5 (1d4/19–20)
+Special Attacks sneak attack +5d6
+STATISTICS
+Str 10, Dex 20, Con 12, Int 14, Wis 8, Cha 14
+Base Atk +6; CMB +10 (+14 disarm); CMD 20 (22 vs. disarm)
+Feats Agile Maneuvers, Combat Expertise, Deceitful, Greater Disarm, Improved Disarm, Weapon Finesse
+Skills Acrobatics +16, Bluff +16, Diplomacy +14, Disable Device +16, Disguise +16, Escape Artist +16,
+Knowledge (local) +14, Perception +13, Sense Motive +11, Sleight of Hand +16, Stealth +26
+Languages Common, Draconic, Dwarven, Elven
+SQ elven magic, rogue talents (bleeding attack +5, finesse rogue, quick disable, surprise attack), trapfinding +4,
+weapon familiarity
+Combat Gear: dagger, arms Mark II(improved arms (2)), Legs Mark II(speed boost, magnetic feet), 
+Body Mark II(+2 dex, shadow), 
+
+
+
+Rusty
+XP 9,600
+Female cheitan human fighter 9
+NE Medium outsider (native)
+Init +7; Senses x-ray, true sight, dark vision; Perception +7
+DEFENSE
+AC 25, touch 30, flat-footed 25 (+9 touch armor, +4 Dex, +3 natural, +5 dodge, +2 shield)
+hp 106 2/DR
+Fort +12; Ref +8; Will +6; +2 vs. fear
+Resist fire 20
+OFFENSE
+Speed 50 ft., fly 40 ft. (perfect)
+Melee +1 longsword +20/+15/+10 (1d10+12/17–20) 
+Spell–like Abilities (CL 9th):
+3/day—detect magic, produce flame, scorching ray (1 ray)
+1/day—pyrotechnics, wall of fire
+STATISTICS
+Str 25, Dex 17, Con 18, Int 11, Wis 12, Cha 15
+Base Atk +9; CMB +16; CMD 29
+Feats Blind-FightB, Cleave, Great Cleave, Great Fortitude, Improved Critical (longsword)B, Improved Initiative,
+Iron WillB, Lightning Reflexes, Power AttackB, Weapon Focus (longsword)B, Weapon Specialization (longsword)B
+Skills Climb +11, Fly +7, Handle Animal +10, Intimidate +10, Perception +8, Ride +5, Sense Motive +4
+Languages Common
+SQ armor training
+Gear +1 half-plate, +1 heavy steel shield, +1 Nullsword, Arms Mark V(haste,hard light,improved arms,+2/DR)
+Legs Mark V(magnetic feet, carry capacity, +30 land spped), Body Mark V(+5 dodge), 
+Brain Mark V(34 spell resistence), Sense Mark V(perfect vison)
+
+
+Hildago
+Bounty Hunter	CR 11
+XP 12,800
+Human ranger 12
+N Medium humanoid
+Init +5; Senses Perception +16
+DEFENSE
+AC 22, touch 15, flat-footed 17 (+5 armor, +5 Dex, +2 shield)
+hp 98 (12d10+32)
+Fort +10, Ref +13, Will +5
+Defensive Abilities evasion
+OFFENSE
+Speed 30 ft.
+Melee mwk rapier +18/+13/+8 (1d6+2/18–20) or mwk sap +18/+13/+8 (1d6+2 nonlethal)
+Ranged +1 merciful composite longbow +18/+13/+8 (1d8+3/x3 plus 1d6 nonlethal) 
+Special Attacks favored enemy (humanoids [human] +6, humanoids [elf ] +2, humanoids [halfling] +2), quarry
+Ranger Spells Prepared (CL 9th; concentration +10)
+3rd—plant growth
+2nd—barkskin, protection from energy
+1st—delay poison, entangle (DC 12), longstrider
+STATISTICS
+Str 14, Dex 20, Con 14, Int 10, Wis 13, Cha 8
+Base Atk +12; CMB +14; CMD 29
+Feats Deadly Aim, Endurance, Improved Precise Shot, Improved Vital Strike, Manyshot, Pinpoint Targeting,
+Point Blank Shot, Precise Shot, Rapid Shot, Vital Strike, Weapon Finesse
+Skills Climb +10, Craft (traps) +10, Handle Animal +14, Heal +5, Intimidate +14, Knowledge (geography) +5, 
+Knowledge (local) +1, Knowledge (nature) +5, Linguistics +2, Perception +16, Ride +12, Stealth +24, 
+Survival +16 (+22 to follow tracks), Swim +6
+Languages Common, Elven, Halfling
+SQ camouflage, favored terrain (urban +4, underground +2), hunter's bond (tiger animal companion), swift tracker,
+track +6, wild empathy +11, woodland stride
+Combat Gear wand of cure light wounds (CL 1, 50 charges), wand of speak with animals (CL 1, 50 charges), 
+tanglefoot bags (2); Other Gear +1 chain shirt, +1 buckler, +1 merciful composite longbow (+2 Str) with 20 arrows,
+ masterwork rapier, masterwork sap, belt of incredible dexterity +2, cloak of elvenkind, blue whinnis (6 doses), 
+purple worm poison (1 dose), 50,000
+
+
+NOTES
+there is a note card(personally electroniuc note taking; DC 35 to hack)
+	Kill the outlaws. They are our target. The p=one that kills them get 100k extra.
+
+the new passcode to room 345 is 6679. John please clean the weapons room better this time.
+
+Hey kala, u rdy for firday night ;)
+
+
+
+The prisioners displaying odd pshycial sign they are no longer part of the binary world of organic or machine
+living. This is unheard of and must be watched.
+
+
